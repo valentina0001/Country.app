@@ -1,0 +1,16 @@
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.exe
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.deps.json
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.runtimeconfig.json
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.runtimeconfig.dev.json
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.dll
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\ref\Country.App.dll
+C:\csharp- apps\MyCvApp\Country.App\Country.App\bin\Debug\net5.0\Country.App.pdb
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.csproj.AssemblyReference.cache
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.AssemblyInfoInputs.cache
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.AssemblyInfo.cs
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.csproj.CoreCompileInputs.cache
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.dll
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\ref\Country.App.dll
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.pdb
+C:\csharp- apps\MyCvApp\Country.App\Country.App\obj\Debug\net5.0\Country.App.genruntimeconfig.cache
